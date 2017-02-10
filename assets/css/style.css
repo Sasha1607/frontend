@@ -103,7 +103,10 @@ h6 {
 	letter-spacing: 1px;
 	font-weight: 400;
 }
-
+#link {
+	display: flex;
+	justify-content: space-around;
+}
 /* ---------------------------------------------- /*
  * Reset border-radius
 /* ---------------------------------------------- */
